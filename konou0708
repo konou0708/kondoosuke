@@ -7,25 +7,25 @@
     </head>
     <body>
     <!--文字の大きさの練習-->
-    <h1>大谷翔平について紹介</h1>
-    <li>大谷翔平はドラフト1位で北海道日本ハムファイターズに入団。</li>
-    <li>現在はメジャーリーガーとしてプレーしている。</li>
-    <li>先日行われたオールスターに出場し、ホームランダービーにも出場した</li>
+    <h1>秋山翔吾について紹介</h1>
+    <li>秋山翔吾はドラフト３位で西武ライオンズに入団。</li>
+    <li>現在は広島カープとしてプレーしている。</li>
+    <li>昨年まではメジャーリーガーとしてプレイしていた。</li>
     </ol>
     <script src="myjs.js"></script>
 
     <h1>問題1</h1>
-    <h2>大谷翔平の出身校はどこでしょう？</h2>
+    <h2>秋山翔吾の出身校はどこでしょう？</h2>
     <p>テキスト入力：<input type="text"></p>
 
     <h1>問題2</h1>
-    <h2>大谷翔平の誕生日は？</h2>
+    <h2>秋山翔吾の誕生日は？</h2>
     <form action="xxx.php" method="post"><label>日付（
     type="date"）:<input type="date"
     name="date"></label><input type="submit" value="送信
     "></form>
     <h1>問題3</h1>
-  <h2>大谷翔平の好きな色は？</h2>
+  <h2>秋山翔吾の好きな色は？</h2>
     <form action="xxx.php" method="post"><label>色（
     type="color"）:<input type="color"
     name="color"></label><input type="submit" value="送信
@@ -48,7 +48,7 @@
     </p>
     <p>城西大学坂戸キャンパスの北側の毛呂山町下川原沼に、サッカー場２面、ソフトボール場１面、
     アップダウンのあるランニングコース、管理施設にはシャワー室やミーティングルームなどを備えた
-    新しいグラウンド"JOSAI SPORTS FEILD" が完成間近です。使用開始は、2020年9月の予定です。</p>
+    新しいグラウンド"JOSAI SPORTS FEILD" があります。</p>
     </section></a>
     </aside>
     <h1>クラブ紹介</h1>
